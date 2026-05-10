@@ -1,0 +1,50 @@
+[DEBUG] 2026-04-27 22:38:21.491 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-27 22:38:21.526 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-27 22:38:21.532 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-27 22:38:21.537 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2026-04-27 22:38:21.541 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-27 22:38:22.557 [TestNG-test-Test-1] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2026-04-27 22:38:37.464 [TestNG-PoolService-1] NewTest - Browser launched.TutorialsNinja website launching
+[INFO ] 2026-04-27 22:38:37.545 [TestNG-PoolService-2] NewTest - Browser launched.TutorialsNinja website launching
+[INFO ] 2026-04-27 22:38:40.246 [TestNG-PoolService-1] NewTest - Login Successful!!
+[DEBUG] 2026-04-28 07:03:19.116 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-28 07:03:19.135 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-28 07:03:19.137 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-28 07:03:19.140 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2026-04-28 07:03:19.142 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-28 07:03:19.868 [TestNG-test-Test-1] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2026-04-28 07:03:29.123 [TestNG-PoolService-2] NewTest - Browser launched.TutorialsNinja website launching
+[INFO ] 2026-04-28 07:03:29.369 [TestNG-PoolService-1] NewTest - Browser launched.TutorialsNinja website launching
+[INFO ] 2026-04-28 07:03:32.814 [TestNG-PoolService-1] NewTest - Login Successful!!
+[DEBUG] 2026-04-28 07:05:37.009 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-28 07:05:37.019 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-28 07:05:37.023 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-28 07:05:37.026 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2026-04-28 07:05:37.028 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-28 07:05:38.251 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2026-04-28 07:05:42.843 [main] NewTest - Browser launched.TutorialsNinja website launching
+[INFO ] 2026-04-28 07:05:47.190 [main] NewTest - Login Successful!!
+[INFO ] 2026-04-28 07:05:50.488 [main] NewTest - Browser launched.TutorialsNinja website launching
+[DEBUG] 2026-04-28 07:07:03.256 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-28 07:07:03.266 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-28 07:07:03.268 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-28 07:07:03.271 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2026-04-28 07:07:03.274 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-28 07:07:04.475 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2026-04-28 07:07:08.639 [main] NewTest - Browser launched.TutorialsNinja website launching
+[INFO ] 2026-04-28 07:07:11.971 [main] NewTest - Login Successful!!
+[DEBUG] 2026-04-28 19:19:57.801 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-28 19:19:57.812 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-28 19:19:57.814 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-28 19:19:57.816 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2026-04-28 19:19:57.819 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-28 19:19:58.824 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2026-04-28 19:20:07.023 [main] NewTest - Browser launched.TutorialsNinja website launching
+[INFO ] 2026-04-28 19:20:12.454 [main] NewTest - Login Successful!!
+[DEBUG] 2026-04-28 19:20:40.869 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-28 19:20:40.879 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-28 19:20:40.882 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-28 19:20:40.887 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2026-04-28 19:20:40.890 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-28 19:20:41.940 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2026-04-28 19:20:46.345 [main] NewTest - Browser launched.TutorialsNinja website launching
