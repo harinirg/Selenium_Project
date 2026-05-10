@@ -1,0 +1,357 @@
+[DEBUG] 2026-04-22 11:54:54.151 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 11:54:54.156 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 11:54:54.447 [TestNG-PoolService-1] LoginTest - Starting the test
+[INFO ] 2026-04-22 11:54:54.447 [TestNG-PoolService-2] LoginTest - Starting the test
+[INFO ] 2026-04-22 11:55:02.515 [TestNG-PoolService-1] LoginTest - Alert message: Wrong password.
+[INFO ] 2026-04-22 11:55:02.572 [TestNG-PoolService-1] LoginTest - Closing browser
+[INFO ] 2026-04-22 11:55:02.918 [TestNG-PoolService-2] LoginTest - Alert message: Wrong password.
+[INFO ] 2026-04-22 11:55:02.944 [TestNG-PoolService-2] LoginTest - Closing browser
+[DEBUG] 2026-04-22 11:55:03.210 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 11:55:03.212 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 11:55:03.242 [TestNG-PoolService-1] LoginTest - Starting the test
+[INFO ] 2026-04-22 11:55:03.933 [TestNG-PoolService-1] LoginTest - Opening application
+[INFO ] 2026-04-22 11:55:08.454 [TestNG-PoolService-1] LoginTest - Entering username: Admin
+[INFO ] 2026-04-22 11:55:09.191 [TestNG-PoolService-1] LoginTest - Entering password
+[INFO ] 2026-04-22 11:55:09.288 [TestNG-PoolService-1] LoginTest - Clicking login submit
+[INFO ] 2026-04-22 11:55:12.763 [TestNG-PoolService-1] LoginTest - Login Successful
+[INFO ] 2026-04-22 11:55:12.766 [TestNG-PoolService-1] LoginTest - Closing browser
+[DEBUG] 2026-04-22 14:34:01.065 [main] TestNG - suiteXmlPath: "C:\Users\HARINI~1\AppData\Local\Temp\testng-eclipse-1857033923\testng-customsuite.xml"
+[INFO ] 2026-04-22 14:34:01.305 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.307 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2026-04-22 14:34:01.309 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.309 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.310 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.310 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.311 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.312 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.313 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.313 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.314 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.314 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.315 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.315 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.316 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.317 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.326 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[INFO ] 2026-04-22 14:34:01.337 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[INFO ] 2026-04-22 14:34:01.338 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.338 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.341 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.342 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.342 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.342 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.343 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.351 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[INFO ] 2026-04-22 14:34:01.352 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.352 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.352 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.352 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:34:01.358 [main] Utils - [TestNG] Running:
+  C:\Users\HARINI R G\AppData\Local\Temp\testng-eclipse-1857033923\testng-customsuite.xml
+
+[INFO ] 2026-04-22 14:34:01.382 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[DEBUG] 2026-04-22 14:34:01.605 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:34:01.608 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 14:34:02.091 [TestNG-PoolService-1] LoginTest - Starting the test
+[INFO ] 2026-04-22 14:34:02.091 [TestNG-PoolService-2] LoginTest - Starting the test
+[INFO ] 2026-04-22 14:34:09.498 [TestNG-PoolService-2] LoginTest - Alert message: Wrong password.
+[INFO ] 2026-04-22 14:34:09.541 [TestNG-PoolService-2] LoginTest - Closing browser
+[INFO ] 2026-04-22 14:34:10.136 [TestNG-PoolService-1] LoginTest - Alert message: Wrong password.
+[INFO ] 2026-04-22 14:34:10.155 [TestNG-PoolService-1] LoginTest - Closing browser
+[DEBUG] 2026-04-22 14:34:10.372 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:34:10.373 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 14:34:10.388 [TestNG-PoolService-1] LoginTest - Starting the test
+[INFO ] 2026-04-22 14:34:11.199 [TestNG-PoolService-1] LoginTest - Opening application
+[INFO ] 2026-04-22 14:34:14.052 [TestNG-PoolService-1] LoginTest - Entering username: 
+[INFO ] 2026-04-22 14:34:14.763 [TestNG-PoolService-1] LoginTest - Entering password
+[INFO ] 2026-04-22 14:34:14.859 [TestNG-PoolService-1] LoginTest - Clicking login submit
+[INFO ] 2026-04-22 14:34:17.553 [TestNG-PoolService-1] LoginTest - Login Successful
+[INFO ] 2026-04-22 14:34:17.556 [TestNG-PoolService-1] LoginTest - Closing browser
+[INFO ] 2026-04-22 14:34:17.805 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@cda0432: 44 ms
+[INFO ] 2026-04-22 14:34:17.806 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2d84cb86: 1 ms
+[INFO ] 2026-04-22 14:34:17.812 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@40021799: 6 ms
+[INFO ] 2026-04-22 14:34:17.817 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4e868ef5: 5 ms
+[INFO ] 2026-04-22 14:34:17.821 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4bff2185: 4 ms
+[INFO ] 2026-04-22 14:34:17.821 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5c20ffa8: 0 ms
+[DEBUG] 2026-04-22 14:41:22.492 [main] TestNG - suiteXmlPath: "C:\Users\HARINI~1\AppData\Local\Temp\testng-eclipse--1139566178\testng-customsuite.xml"
+[INFO ] 2026-04-22 14:41:22.711 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.713 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2026-04-22 14:41:22.715 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.715 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.716 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.716 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.717 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.717 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.718 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.718 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.720 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.720 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.721 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.721 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.722 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.722 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.730 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[INFO ] 2026-04-22 14:41:22.741 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[INFO ] 2026-04-22 14:41:22.742 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.743 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2026-04-22 14:41:22.745 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.745 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.745 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.745 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.746 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.755 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[INFO ] 2026-04-22 14:41:22.757 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.757 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.757 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.757 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-22 14:41:22.763 [main] Utils - [TestNG] Running:
+  C:\Users\HARINI R G\AppData\Local\Temp\testng-eclipse--1139566178\testng-customsuite.xml
+
+[INFO ] 2026-04-22 14:41:22.791 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+[DEBUG] 2026-04-22 14:41:23.099 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:41:23.102 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 14:41:23.409 [TestNG-PoolService-1] LoginTest - Starting the test
+[INFO ] 2026-04-22 14:41:23.409 [TestNG-PoolService-2] LoginTest - Starting the test
+[INFO ] 2026-04-22 14:41:35.756 [TestNG-PoolService-1] LoginTest - Alert message: Wrong password.
+[INFO ] 2026-04-22 14:41:35.771 [TestNG-PoolService-1] LoginTest - Closing browser
+[INFO ] 2026-04-22 14:41:40.325 [TestNG-PoolService-2] LoginTest - Closing browser
+[DEBUG] 2026-04-22 14:41:40.556 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:41:40.558 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 14:41:40.577 [TestNG-PoolService-1] LoginTest - Starting the test
+[INFO ] 2026-04-22 14:41:41.373 [TestNG-PoolService-1] LoginTest - Opening application
+[INFO ] 2026-04-22 14:41:56.758 [TestNG-PoolService-1] LoginTest - Entering username: 
+[INFO ] 2026-04-22 14:41:57.457 [TestNG-PoolService-1] LoginTest - Entering password
+[INFO ] 2026-04-22 14:41:57.596 [TestNG-PoolService-1] LoginTest - Clicking login submit
+[INFO ] 2026-04-22 14:42:11.685 [TestNG-PoolService-1] LoginTest - Closing browser
+[INFO ] 2026-04-22 14:42:12.028 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@71a3a190: 48 ms
+[INFO ] 2026-04-22 14:42:12.039 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6f099cef: 10 ms
+[INFO ] 2026-04-22 14:42:12.047 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@18a645fd: 8 ms
+[INFO ] 2026-04-22 14:42:12.054 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6df7988f: 7 ms
+[INFO ] 2026-04-22 14:42:12.059 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@21fff664: 4 ms
+[INFO ] 2026-04-22 14:42:12.059 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6079cf5: 0 ms
+[DEBUG] 2026-04-28 10:27:27.691 [main] TestNG - suiteXmlPath: "C:\Users\HARINI~1\AppData\Local\Temp\testng-eclipse--162914767\testng-customsuite.xml"
+[INFO ] 2026-04-28 10:27:27.849 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2026-04-28 10:27:27.851 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2026-04-28 10:27:27.852 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.852 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.852 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.853 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.853 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.853 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.854 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.854 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.855 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.855 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.855 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.855 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.856 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.856 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.862 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2026-04-28 10:27:27.868 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+[INFO ] 2026-04-28 10:27:27.869 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.869 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.871 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.871 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.871 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.872 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.872 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.876 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[INFO ] 2026-04-28 10:27:27.877 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.877 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.878 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.878 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 10:27:27.883 [main] Utils - [TestNG] Running:
+  C:\Users\HARINI R G\AppData\Local\Temp\testng-eclipse--162914767\testng-customsuite.xml
+
+[INFO ] 2026-04-28 10:27:27.896 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[DEBUG] 2026-04-28 10:27:28.044 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-28 10:27:28.048 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-28 10:27:28.335 [TestNG-PoolService-1] LoginTest - Starting the test
+[INFO ] 2026-04-28 10:27:28.335 [TestNG-PoolService-2] LoginTest - Starting the test
+[INFO ] 2026-04-28 10:27:51.041 [TestNG-PoolService-1] LoginTest - Alert message: Wrong password.
+[INFO ] 2026-04-28 10:27:51.076 [TestNG-PoolService-1] LoginTest - Closing browser
+[INFO ] 2026-04-28 10:27:51.294 [TestNG-PoolService-2] LoginTest - Alert message: Wrong password.
+[INFO ] 2026-04-28 10:27:51.307 [TestNG-PoolService-2] LoginTest - Closing browser
+[DEBUG] 2026-04-28 10:27:51.478 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-28 10:27:51.479 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-28 10:27:51.490 [TestNG-PoolService-1] LoginTest - Starting the test
+[INFO ] 2026-04-28 10:27:52.379 [TestNG-PoolService-1] LoginTest - Opening application
+[INFO ] 2026-04-28 10:27:55.404 [TestNG-PoolService-1] LoginTest - Entering username: 
+[INFO ] 2026-04-28 10:27:56.184 [TestNG-PoolService-1] LoginTest - Entering password
+[INFO ] 2026-04-28 10:27:56.281 [TestNG-PoolService-1] LoginTest - Clicking login submit
+[INFO ] 2026-04-28 10:27:58.887 [TestNG-PoolService-1] LoginTest - Login Successful
+[INFO ] 2026-04-28 10:27:58.899 [TestNG-PoolService-1] LoginTest - Closing browser
+[INFO ] 2026-04-28 10:27:59.224 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3703bf3c: 36 ms
+[INFO ] 2026-04-28 10:27:59.225 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@ddf20fd: 1 ms
+[INFO ] 2026-04-28 10:27:59.232 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5d39f2d8: 7 ms
+[INFO ] 2026-04-28 10:27:59.235 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2f879bab: 3 ms
+[INFO ] 2026-04-28 10:27:59.239 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@72ed9aad: 3 ms
+[INFO ] 2026-04-28 10:27:59.239 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4690f583: 0 ms
+[DEBUG] 2026-04-28 11:06:14.811 [main] TestNG - suiteXmlPath: "C:\Users\HARINI~1\AppData\Local\Temp\testng-eclipse-651122484\testng-customsuite.xml"
+[INFO ] 2026-04-28 11:06:14.968 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.969 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.970 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.970 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.971 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.971 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.971 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.971 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.972 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.972 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.972 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.972 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.973 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.973 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.973 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.973 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.979 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[INFO ] 2026-04-28 11:06:14.984 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+[INFO ] 2026-04-28 11:06:14.985 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.985 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.986 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.986 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.986 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.987 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.987 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.991 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[INFO ] 2026-04-28 11:06:14.992 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.992 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.992 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.992 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:06:14.997 [main] Utils - [TestNG] Running:
+  C:\Users\HARINI R G\AppData\Local\Temp\testng-eclipse-651122484\testng-customsuite.xml
+
+[INFO ] 2026-04-28 11:06:15.009 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[DEBUG] 2026-04-28 11:06:15.141 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-28 11:06:15.143 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-28 11:06:15.381 [TestNG-PoolService-1] LoginTest - Starting the test
+[INFO ] 2026-04-28 11:06:15.381 [TestNG-PoolService-2] LoginTest - Starting the test
+[INFO ] 2026-04-28 11:06:31.339 [TestNG-PoolService-2] LoginTest - Closing browser
+[INFO ] 2026-04-28 11:06:31.642 [TestNG-PoolService-1] LoginTest - Closing browser
+[DEBUG] 2026-04-28 11:06:31.959 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-28 11:06:31.960 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-28 11:06:31.976 [TestNG-PoolService-1] LoginTest - Starting the test
+[INFO ] 2026-04-28 11:06:32.847 [TestNG-PoolService-1] LoginTest - Opening application
+[INFO ] 2026-04-28 11:06:34.882 [TestNG-PoolService-1] LoginTest - Entering username: 
+[INFO ] 2026-04-28 11:06:35.527 [TestNG-PoolService-1] LoginTest - Entering password
+[INFO ] 2026-04-28 11:06:35.577 [TestNG-PoolService-1] LoginTest - Clicking login submit
+[INFO ] 2026-04-28 11:06:46.175 [TestNG-PoolService-1] LoginTest - Closing browser
+[INFO ] 2026-04-28 11:06:46.554 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@278f8425: 26 ms
+[INFO ] 2026-04-28 11:06:46.560 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2d66530f: 6 ms
+[INFO ] 2026-04-28 11:06:46.566 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5d58c727: 5 ms
+[INFO ] 2026-04-28 11:06:46.570 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@30cecdca: 4 ms
+[INFO ] 2026-04-28 11:06:46.575 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@f973499: 4 ms
+[INFO ] 2026-04-28 11:06:46.575 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4d33940d: 0 ms
+[DEBUG] 2026-04-28 11:08:52.825 [main] TestNG - suiteXmlPath: "C:\Users\HARINI~1\AppData\Local\Temp\testng-eclipse--712245373\testng-customsuite.xml"
+[INFO ] 2026-04-28 11:08:52.976 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2026-04-28 11:08:52.977 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.978 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.978 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.979 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.979 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.979 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.979 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.980 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.980 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.980 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.980 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.981 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.981 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.981 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.981 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.986 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2026-04-28 11:08:52.992 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[INFO ] 2026-04-28 11:08:52.993 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.993 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.994 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.995 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.995 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.995 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.996 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:08:52.998 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO ] 2026-04-28 11:08:53.000 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:08:53.000 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:08:53.000 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 11:08:53.000 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 11:08:53.005 [main] Utils - [TestNG] Running:
+  C:\Users\HARINI R G\AppData\Local\Temp\testng-eclipse--712245373\testng-customsuite.xml
+
+[INFO ] 2026-04-28 11:08:53.016 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+[DEBUG] 2026-04-28 11:08:53.140 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-28 11:08:53.142 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-28 11:08:53.379 [TestNG-PoolService-2] LoginTest - Starting the test
+[INFO ] 2026-04-28 11:08:53.379 [TestNG-PoolService-1] LoginTest - Starting the test
+[INFO ] 2026-04-28 11:08:59.972 [TestNG-PoolService-1] LoginTest - Alert message: Wrong password.
+[INFO ] 2026-04-28 11:08:59.982 [TestNG-PoolService-2] LoginTest - Alert message: Wrong password.
+[INFO ] 2026-04-28 11:09:00.058 [TestNG-PoolService-2] LoginTest - Closing browser
+[INFO ] 2026-04-28 11:09:00.080 [TestNG-PoolService-1] LoginTest - Closing browser
+[DEBUG] 2026-04-28 11:09:00.326 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-28 11:09:00.328 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-28 11:09:00.343 [TestNG-PoolService-1] LoginTest - Starting the test
+[INFO ] 2026-04-28 11:09:01.161 [TestNG-PoolService-1] LoginTest - Opening application
+[INFO ] 2026-04-28 11:09:04.548 [TestNG-PoolService-1] LoginTest - Entering username: 
+[INFO ] 2026-04-28 11:09:05.250 [TestNG-PoolService-1] LoginTest - Entering password
+[INFO ] 2026-04-28 11:09:05.331 [TestNG-PoolService-1] LoginTest - Clicking login submit
+[INFO ] 2026-04-28 11:09:07.720 [TestNG-PoolService-1] LoginTest - Login Successful
+[INFO ] 2026-04-28 11:09:07.729 [TestNG-PoolService-1] LoginTest - Closing browser
+[INFO ] 2026-04-28 11:09:08.183 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@baf1bb3: 47 ms
+[INFO ] 2026-04-28 11:09:08.184 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4482469c: 1 ms
+[INFO ] 2026-04-28 11:09:08.193 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@264c5d07: 9 ms
+[INFO ] 2026-04-28 11:09:08.197 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@afb5821: 3 ms
+[INFO ] 2026-04-28 11:09:08.202 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@458544e0: 5 ms
+[INFO ] 2026-04-28 11:09:08.202 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6bcbf05b: 0 ms
+[DEBUG] 2026-04-28 12:33:23.672 [main] TestNG - suiteXmlPath: "C:\Users\HARINI~1\AppData\Local\Temp\testng-eclipse-806994976\testng-customsuite.xml"
+[INFO ] 2026-04-28 12:33:23.861 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.862 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.864 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.864 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.865 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.865 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.865 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.866 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.866 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.867 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.867 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.867 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.868 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.868 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.868 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.869 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.877 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[INFO ] 2026-04-28 12:33:23.885 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[INFO ] 2026-04-28 12:33:23.886 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.886 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.888 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.888 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.888 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.888 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.889 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.895 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+[INFO ] 2026-04-28 12:33:23.897 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.897 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.897 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.897 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2026-04-28 12:33:23.903 [main] Utils - [TestNG] Running:
+  C:\Users\HARINI R G\AppData\Local\Temp\testng-eclipse-806994976\testng-customsuite.xml
+
+[INFO ] 2026-04-28 12:33:23.921 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[DEBUG] 2026-04-28 12:33:24.076 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-28 12:33:24.082 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-28 12:33:24.381 [TestNG-PoolService-2] LoginTest - Starting the test
+[INFO ] 2026-04-28 12:33:24.381 [TestNG-PoolService-1] LoginTest - Starting the test
+[INFO ] 2026-04-28 12:33:36.665 [TestNG-PoolService-1] LoginTest - Closing browser
+[INFO ] 2026-04-28 12:33:45.637 [TestNG-PoolService-2] LoginTest - Closing browser
+[DEBUG] 2026-04-28 12:33:45.817 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-28 12:33:45.820 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-28 12:33:45.871 [TestNG-PoolService-1] LoginTest - Starting the test
+[INFO ] 2026-04-28 12:33:46.789 [TestNG-PoolService-1] LoginTest - Opening application
+[INFO ] 2026-04-28 12:33:49.551 [TestNG-PoolService-1] LoginTest - Entering username: 
+[INFO ] 2026-04-28 12:33:50.291 [TestNG-PoolService-1] LoginTest - Entering password
+[INFO ] 2026-04-28 12:33:50.421 [TestNG-PoolService-1] LoginTest - Clicking login submit
+[INFO ] 2026-04-28 12:33:51.208 [TestNG-PoolService-1] LoginTest - Closing browser
+[INFO ] 2026-04-28 12:33:51.567 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@278f8425: 111 ms
+[INFO ] 2026-04-28 12:33:51.591 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2d66530f: 24 ms
+[INFO ] 2026-04-28 12:33:51.610 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5d58c727: 19 ms
+[INFO ] 2026-04-28 12:33:51.622 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@30cecdca: 11 ms
+[INFO ] 2026-04-28 12:33:51.635 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@f973499: 13 ms
+[INFO ] 2026-04-28 12:33:51.636 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4d33940d: 0 ms
