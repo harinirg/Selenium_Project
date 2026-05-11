@@ -1,0 +1,8 @@
+com\Utilities\HelperClass.class
+com\Runner\TestNGRunner.class
+com\Actions\LoginPageActions.class
+com\Definitions\Hooks.class
+com\Actions\HomePageActions.class
+com\Pages\LoginPageLocators.class
+com\Pages\HomePageLocators.class
+com\Definitions\LoginTest.class
