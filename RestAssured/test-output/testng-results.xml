@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-06-15T15:43:25 IST" name="Default suite" finished-at="2026-06-15T15:43:27 IST" duration-ms="1940">
+  <suite started-at="2026-06-16T07:51:34 IST" name="Default suite" finished-at="2026-06-16T07:51:36 IST" duration-ms="2190">
     <groups>
     </groups>
-    <test started-at="2026-06-15T15:43:25 IST" name="Default test" finished-at="2026-06-15T15:43:27 IST" duration-ms="1940">
-      <class name="com.tests.ApiValidationTest">
-        <test-method signature="validateUserData()[pri:0, instance:com.tests.ApiValidationTest@73a1e9a9]" started-at="2026-06-15T15:43:25 IST" name="validateUserData" finished-at="2026-06-15T15:43:27 IST" duration-ms="1893" status="PASS">
+    <test started-at="2026-06-16T07:51:34 IST" name="Default test" finished-at="2026-06-16T07:51:36 IST" duration-ms="2190">
+      <class name="com.tests.GetQueryParamsTest">
+        <test-method signature="getQueryParams()[pri:0, instance:com.tests.GetQueryParamsTest@73a1e9a9]" started-at="2026-06-16T07:51:34 IST" name="getQueryParams" finished-at="2026-06-16T07:51:36 IST" duration-ms="2153" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validateUserData -->
-      </class> <!-- com.tests.ApiValidationTest -->
+        </test-method> <!-- getQueryParams -->
+      </class> <!-- com.tests.GetQueryParamsTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
