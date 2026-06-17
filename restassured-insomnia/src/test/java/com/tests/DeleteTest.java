@@ -13,7 +13,7 @@ public class DeleteTest {
 
         Response response = RestAssured.given()
                 .when()
-                .delete("http://localhost:3000/trainees/nDOEJaIx-HA");
+                .delete("http://localhost:3000/trainees/nZwETFARgsY");
 
         System.out.println("Status Code: " + response.getStatusCode());
         response.prettyPrint();
