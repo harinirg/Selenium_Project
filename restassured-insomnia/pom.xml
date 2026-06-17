@@ -58,16 +58,6 @@
 			<version>2.35.2</version>
 			<scope>compile</scope>
 		</dependency>
-
-		<!-- Source:
-		https://mvnrepository.com/artifact/io.qameta.allure/allure-maven -->
-		<dependency>
-			<groupId>io.qameta.allure</groupId>
-			<artifactId>allure-maven</artifactId>
-			<version>3.0.1</version>
-			<scope>compile</scope>
-		</dependency>
-
 		<!-- Source:
 		https://mvnrepository.com/artifact/org.aspectj/aspectjweaver -->
 		<dependency>
@@ -76,17 +66,6 @@
 			<version>1.9.25.1</version>
 			<scope>runtime</scope>
 		</dependency>
-
-		<!-- Source:
-		https://mvnrepository.com/artifact/io.qameta.allure/allure-bom -->
-		<dependency>
-			<groupId>io.qameta.allure</groupId>
-			<artifactId>allure-bom</artifactId>
-			<version>2.34.0</version>
-			<type>pom</type>
-			<scope>import</scope>
-		</dependency>
-
 	</dependencies>
 
 	<build>
@@ -109,7 +88,18 @@
 					<suiteXmlFiles>
 						<suiteXmlFile>testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
+
+					<systemPropertyVariables>
+						<allure.results.directory>
+							${project.build.directory}/allure-results
+						</allure.results.directory>
+					</systemPropertyVariables>
 				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>io.qameta.allure</groupId>
+				<artifactId>allure-maven</artifactId>
+				<version>2.12.0</version>
 			</plugin>
 		</plugins>
 	</build>
