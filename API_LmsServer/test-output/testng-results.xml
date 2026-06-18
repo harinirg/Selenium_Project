@@ -2,62 +2,62 @@
 <testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-06-18T07:35:12 IST" name="Suite" finished-at="2026-06-18T07:35:24 IST" duration-ms="12855">
+  <suite started-at="2026-06-18T08:30:54 IST" name="Suite" finished-at="2026-06-18T08:31:12 IST" duration-ms="17090">
     <groups>
     </groups>
-    <test started-at="2026-06-18T07:35:12 IST" name="Test" finished-at="2026-06-18T07:35:24 IST" duration-ms="12855">
+    <test started-at="2026-06-18T08:30:54 IST" name="Test" finished-at="2026-06-18T08:31:12 IST" duration-ms="17090">
       <class name="com.test.Get_All_Institution_Test">
-        <test-method signature="baseURI()[pri:0, instance:com.test.Get_All_Institution_Test@76b07f29]" started-at="2026-06-18T07:35:20 IST" name="baseURI" finished-at="2026-06-18T07:35:20 IST" duration-ms="3" status="PASS">
+        <test-method signature="baseURI()[pri:0, instance:com.test.Get_All_Institution_Test@76b07f29]" started-at="2026-06-18T08:31:07 IST" name="baseURI" finished-at="2026-06-18T08:31:07 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- baseURI -->
-        <test-method signature="getAllInstitution()[pri:0, instance:com.test.Get_All_Institution_Test@76b07f29]" started-at="2026-06-18T07:35:20 IST" name="getAllInstitution" finished-at="2026-06-18T07:35:21 IST" duration-ms="897" status="PASS">
+        <test-method signature="getAllInstitution()[pri:0, instance:com.test.Get_All_Institution_Test@76b07f29]" started-at="2026-06-18T08:31:07 IST" name="getAllInstitution" finished-at="2026-06-18T08:31:07 IST" duration-ms="861" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getAllInstitution -->
       </class> <!-- com.test.Get_All_Institution_Test -->
       <class name="com.test.Get_All_Roles_Test">
-        <test-method signature="baseURI()[pri:0, instance:com.test.Get_All_Roles_Test@16612a51]" started-at="2026-06-18T07:35:12 IST" name="baseURI" finished-at="2026-06-18T07:35:12 IST" duration-ms="334" status="PASS">
+        <test-method signature="baseURI()[pri:0, instance:com.test.Get_All_Roles_Test@16612a51]" started-at="2026-06-18T08:30:55 IST" name="baseURI" finished-at="2026-06-18T08:30:55 IST" duration-ms="352" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- baseURI -->
-        <test-method signature="get_all_roles()[pri:0, instance:com.test.Get_All_Roles_Test@16612a51]" started-at="2026-06-18T07:35:12 IST" name="get_all_roles" finished-at="2026-06-18T07:35:15 IST" duration-ms="2665" status="PASS">
+        <test-method signature="get_all_roles()[pri:0, instance:com.test.Get_All_Roles_Test@16612a51]" started-at="2026-06-18T08:30:55 IST" name="get_all_roles" finished-at="2026-06-18T08:31:01 IST" duration-ms="5957" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- get_all_roles -->
       </class> <!-- com.test.Get_All_Roles_Test -->
       <class name="com.test.AuthenticationTest">
-        <test-method signature="authenticationTest()[pri:0, instance:com.test.AuthenticationTest@9cb8225]" started-at="2026-06-18T07:35:16 IST" name="authenticationTest" finished-at="2026-06-18T07:35:20 IST" duration-ms="4347" status="PASS">
+        <test-method signature="authenticationTest()[pri:0, instance:com.test.AuthenticationTest@9cb8225]" started-at="2026-06-18T08:31:02 IST" name="authenticationTest" finished-at="2026-06-18T08:31:07 IST" duration-ms="4155" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- authenticationTest -->
-        <test-method signature="baseURI()[pri:0, instance:com.test.AuthenticationTest@9cb8225]" started-at="2026-06-18T07:35:20 IST" name="baseURI" finished-at="2026-06-18T07:35:20 IST" duration-ms="4" status="PASS">
+        <test-method signature="baseURI()[pri:0, instance:com.test.AuthenticationTest@9cb8225]" started-at="2026-06-18T08:31:07 IST" name="baseURI" finished-at="2026-06-18T08:31:07 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- baseURI -->
       </class> <!-- com.test.AuthenticationTest -->
       <class name="com.test.HealthCheckTest">
-        <test-method signature="baseURI()[pri:0, instance:com.test.HealthCheckTest@5852c06f]" started-at="2026-06-18T07:35:15 IST" name="baseURI" finished-at="2026-06-18T07:35:15 IST" duration-ms="3" status="PASS">
+        <test-method signature="baseURI()[pri:0, instance:com.test.HealthCheckTest@5852c06f]" started-at="2026-06-18T08:31:01 IST" name="baseURI" finished-at="2026-06-18T08:31:01 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- baseURI -->
-        <test-method signature="healthCheck()[pri:0, instance:com.test.HealthCheckTest@5852c06f]" started-at="2026-06-18T07:35:15 IST" name="healthCheck" finished-at="2026-06-18T07:35:16 IST" duration-ms="863" status="PASS">
+        <test-method signature="healthCheck()[pri:0, instance:com.test.HealthCheckTest@5852c06f]" started-at="2026-06-18T08:31:01 IST" name="healthCheck" finished-at="2026-06-18T08:31:02 IST" duration-ms="1499" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- healthCheck -->
       </class> <!-- com.test.HealthCheckTest -->
       <class name="com.test.BaseTest">
-        <test-method signature="baseURI()[pri:0, instance:com.test.BaseTest@4149c063]" started-at="2026-06-18T07:35:16 IST" name="baseURI" finished-at="2026-06-18T07:35:16 IST" duration-ms="3" status="PASS">
+        <test-method signature="baseURI()[pri:0, instance:com.test.BaseTest@4149c063]" started-at="2026-06-18T08:31:02 IST" name="baseURI" finished-at="2026-06-18T08:31:02 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- baseURI -->
       </class> <!-- com.test.BaseTest -->
       <class name="com.test.LoginTest">
-        <test-method signature="baseURI()[pri:0, instance:com.test.LoginTest@38af9828]" started-at="2026-06-18T07:35:21 IST" name="baseURI" finished-at="2026-06-18T07:35:21 IST" duration-ms="2" status="PASS">
+        <test-method signature="baseURI()[pri:0, instance:com.test.LoginTest@38af9828]" started-at="2026-06-18T08:31:07 IST" name="baseURI" finished-at="2026-06-18T08:31:07 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- baseURI -->
-        <test-method signature="loginTest()[pri:0, instance:com.test.LoginTest@38af9828]" started-at="2026-06-18T07:35:21 IST" name="loginTest" finished-at="2026-06-18T07:35:24 IST" duration-ms="3586" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.test.LoginTest@38af9828]" started-at="2026-06-18T08:31:08 IST" name="loginTest" finished-at="2026-06-18T08:31:12 IST" duration-ms="4066" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
