@@ -3,10 +3,12 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.test.Get_All_Roles_Test"/>
       <class name="com.test.HealthCheckTest"/>
+      <class name="com.test.AllCoursesTest"/>
+      <class name="com.test.AllRolesTest"/>
       <class name="com.test.AuthenticationTest"/>
-      <class name="com.test.Get_All_Institution_Test"/>
+      <class name="com.test.AllInstituteTest"/>
+      <class name="com.test.CRUDTest"/>
       <class name="com.test.LoginTest"/>
     </classes>
   </test> <!-- Test -->
