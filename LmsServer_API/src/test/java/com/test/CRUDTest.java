@@ -1,11 +1,14 @@
 package com.test;
 
 import static io.restassured.RestAssured.given;
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
+
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
@@ -14,75 +17,84 @@ public class CRUDTest extends BaseTest {
     @Test(dependsOnMethods = "com.test.AuthenticationTest.authenticationTest")
     public void CRUDTests() {
 
-        String token = AuthenticationTest.token;
+        String authToken = AuthenticationTest.token;
 
         // Create Note
-        Map<String, Object> payload = new HashMap<>();
-        payload.put("title", "API Test Note");
-        payload.put("content", "Created by tester");
-        payload.put("tags", Arrays.asList("qa", "demo"));
-        payload.put("color", "#ffeb3b");
-        payload.put("isPinned", false);
-        Response createResponse = given()
-                .header("Authorization", "Bearer " + token)
+        Map<String, Object> noteRequestBody = new HashMap<>();
+        noteRequestBody.put("title", "API Test Note");
+        noteRequestBody.put("content", "Created by tester");
+        noteRequestBody.put("tags", Arrays.asList("qa", "demo"));
+        noteRequestBody.put("color", "#ffeb3b");
+        noteRequestBody.put("isPinned", false);
+
+        Response createResult = given()
+                .header("Authorization", "Bearer " + authToken)
                 .contentType(ContentType.JSON)
-                .body(payload)
+                .body(noteRequestBody)
                 .when()
                 .post("/create/notes");
-        Assert.assertEquals(createResponse.getStatusCode(), 201);
-        String noteId = createResponse.jsonPath().getString("data._id");
-        Assert.assertNotNull(noteId);
+
+        Assert.assertEquals(createResult.getStatusCode(), 201);
+        Assert.assertEquals(createResult.jsonPath().getString("message"),
+                "Note created successfully");
+
+        String currentNoteId = createResult.jsonPath().getString("data._id");
+        Assert.assertNotNull(currentNoteId);
 
         // Get All Notes
-        Response getAllResponse = given()
-                .header("Authorization", "Bearer " + token)
+        Response getAllResult = given()
+                .header("Authorization", "Bearer " + authToken)
                 .when()
                 .get("/getAll/notes");
 
-        Assert.assertEquals(getAllResponse.getStatusCode(), 200);
+        Assert.assertEquals(getAllResult.getStatusCode(), 200);
+        Assert.assertTrue(getAllResult.jsonPath().getList("data").size() > 0);
 
         // Get Note By ID
-        Response getByIdResponse = given()
-                .header("Authorization", "Bearer " + token)
-                .pathParam("id", noteId)
+        
+        Response getByIdResult = given()
+                .header("Authorization", "Bearer " + authToken)
+                .pathParam("id", currentNoteId)
                 .when()
                 .get("/getById/notes/{id}");
 
-        Assert.assertEquals(getByIdResponse.getStatusCode(), 200);
-        Assert.assertEquals(getByIdResponse.jsonPath().getString("data.title"),"API Test Note");
+        Assert.assertEquals(getByIdResult.getStatusCode(), 200);
+        Assert.assertEquals(getByIdResult.jsonPath().getString("data.title"),
+                "API Test Note");
 
         // Update Note
-        Map<String, Object> updatePayload = new HashMap<>();
-        updatePayload.put("title", "API Test Note (edited)");
-        updatePayload.put("content", "Updated content");
-        Response updateResponse = given()
-                .header("Authorization", "Bearer " + token)
+        Map<String, Object> updatedNoteBody = new HashMap<>();
+        updatedNoteBody.put("title", "API Test Note (edited)");
+        updatedNoteBody.put("content", "Updated content");
+
+        Response updateResult = given()
+                .header("Authorization", "Bearer " + authToken)
                 .contentType(ContentType.JSON)
-                .pathParam("id", noteId)
-                .body(updatePayload)
+                .pathParam("id", currentNoteId)
+                .body(updatedNoteBody)
                 .when()
                 .put("/update/notes/{id}");
 
-        Assert.assertEquals(updateResponse.getStatusCode(), 200);
-
+        Assert.assertEquals(updateResult.getStatusCode(), 200);
+        Assert.assertEquals(updateResult.jsonPath().getString("data.title"),
+                "API Test Note (edited)");
         // Toggle Pin
-        Response pinResponse = given()
-                .header("Authorization", "Bearer " + token)
-                .pathParam("id", noteId)
+        Response toggleResult = given()
+                .header("Authorization", "Bearer " + authToken)
+                .pathParam("id", currentNoteId)
                 .when()
                 .put("/toggle-pin/notes/{id}");
-
-        Assert.assertEquals(pinResponse.getStatusCode(), 200);
+        Assert.assertEquals(toggleResult.getStatusCode(), 200);
+        Assert.assertTrue(toggleResult.jsonPath().getBoolean("data.isPinned"));
 
         // Delete Note
-        Response deleteResponse = given()
-                .header("Authorization", "Bearer " + token)
-                .pathParam("id", noteId)
+        Response deleteResult = given()
+                .header("Authorization", "Bearer " + authToken)
+                .pathParam("id", currentNoteId)
                 .when()
                 .delete("/delete/notes/ById/{id}");
-
-        Assert.assertEquals(deleteResponse.getStatusCode(), 200);
-        Assert.assertEquals(deleteResponse.jsonPath().getString("message"),"Notes deleted successfully");
+        Assert.assertEquals(deleteResult.getStatusCode(), 200);
+        Assert.assertEquals(deleteResult.jsonPath().getString("message"),
+                "Notes deleted successfully");
     }
 }
-
